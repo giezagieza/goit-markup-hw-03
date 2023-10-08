@@ -172,6 +172,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--color-dark);
+  margin-bottom: 72px;
 }
 
 .section-background {
@@ -243,4 +244,12 @@ img {
 
 .values-list-listing {
   flex-basis: calc((100% - 3 * 24px) / 4);
+}
+
+.doing {
+  padding-bottom: 120px;
+}
+
+.doing-list {
+  width: calc((100% - 48px) / 3);
 }
