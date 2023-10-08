@@ -239,7 +239,7 @@ img {
 
 .address-list {
   display: flex;
-  gap: 140px;
+  gap: 40px;
 }
 
 .values {
