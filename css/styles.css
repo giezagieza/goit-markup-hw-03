@@ -333,3 +333,8 @@ img {
   gap: 40px;
   list-style: none;
 }
+
+.section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
