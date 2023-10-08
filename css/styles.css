@@ -175,8 +175,18 @@ body {
   margin-bottom: 72px;
 }
 
-.section-background {
+.team {
   background-color: #f4f4fd;
+  padding: 120px 0;
+}
+
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+
+.employee {
+  padding: 32px 0px;
 }
 
 .list-images-header {
@@ -189,6 +199,8 @@ body {
 
 .introduction-photo-list {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 
 img {
@@ -252,4 +264,22 @@ img {
 
 .doing-list {
   width: calc((100% - 48px) / 3);
+}
+
+.employee-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--color-dark);
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.employee-position {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-text);
+  text-align: center;
 }
