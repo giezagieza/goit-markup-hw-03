@@ -317,8 +317,6 @@ img {
 }
 
 .portfolio-list-listing {
-  margin: 0px;
-  padding: 0px;
   width: calc((100% - 48px) / 3);
 }
 
