@@ -239,7 +239,7 @@ img {
 
 .address-list {
   display: flex;
-  gap: 40px;
+  gap: 140px;
 }
 
 .values {
@@ -331,4 +331,5 @@ img {
 .menu {
   display: flex;
   gap: 40px;
+  list-style: none;
 }
