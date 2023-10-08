@@ -94,10 +94,12 @@ body {
   line-height: 1.5;
   color: var(--color-light);
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
 
-.footer-background {
+.footer {
   background-color: var(--color-dark);
+  padding: 100px 0;
 }
 
 .footer-logo {
@@ -282,4 +284,9 @@ img {
   letter-spacing: 0.02em;
   color: var(--color-text);
   text-align: center;
+}
+
+.footer-logo-class {
+  display: inline-block;
+  margin-bottom: 16px;
 }
