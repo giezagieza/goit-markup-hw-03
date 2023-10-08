@@ -26,6 +26,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-pressed-state);
+  margin-right: 76px;
 }
 
 .link {
