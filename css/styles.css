@@ -232,12 +232,11 @@ img {
 
 .header {
   border-bottom: 1px solid #e7e9fc;
-  height: 72px;
+  padding: 24px;
 }
 
 .header-div {
   display: flex;
-  height: 72px;
 }
 
 .container {
